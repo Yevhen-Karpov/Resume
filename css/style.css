@@ -1,6 +1,9 @@
 body {
   font-family: "Montserrat", sans-serif;
-  background-color: #e5e5e5;
+  background: rgb(252, 249, 249);
+}
+a {
+  text-decoration: none;
 }
 /*my container section*/
 .main-container {
@@ -33,7 +36,7 @@ body {
   margin-bottom: 25px;
 }
 .about-my-prof2 {
-  width: 400px;
+  /* width: 400px; */
   font-style: normal;
   font-weight: normal;
   font-size: 14px;
@@ -147,6 +150,9 @@ body {
 }
 .sidebar__photo {
   width: 370px;
+  height: 440px;
+  background-image: url("../images/IMG_20211104_142402.jpg");
+  background-size: cover;
 }
 .contacts-section,
 .tech-skills {
