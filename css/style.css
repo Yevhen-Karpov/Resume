@@ -151,8 +151,9 @@ a {
 .sidebar__photo {
   width: 370px;
   height: 440px;
-  background-image: url("../images/IMG_20211104_142402.jpg");
+  background-image: url("../images/Evgen.jpeg");
   background-size: cover;
+  background-position: center;
 }
 .contacts-section,
 .tech-skills {
